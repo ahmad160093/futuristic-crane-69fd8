@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Sampang
 layout: category
 order: 3
 seo:
