@@ -3,7 +3,7 @@ title: sumenep
 layout: category
 order: 1
 seo:
-  title: Big plants
+  title: Kab.Sumenep
   description: This is the store page
   extra:
     - name: 'og:type'
