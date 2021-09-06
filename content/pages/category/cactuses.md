@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Pamekasan
 layout: category
 order: 2
 seo:
